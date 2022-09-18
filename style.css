@@ -1,0 +1,32 @@
+html {
+    font-size: 10px;
+    
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Open Sans', Verdana, sans-serif;
+}
+
+.wrapper {
+    width: 1280px;
+}
+
+
+.header {
+    width: 100px;
+}
+
+.button {
+    width:100px;
+    height: 40px;
+    border: 3px gold solid;
+    border-radius: 10px;
+}
+
+.button__active {
+    color: blue;
+}
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
